@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @leanderlxl
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me add my qq.1541968278
 
